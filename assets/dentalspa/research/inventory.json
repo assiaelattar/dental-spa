@@ -1,0 +1,1544 @@
+[
+  {
+    "id": 0,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/maya-05.jpeg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/maya-05.jpeg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 2134097,
+    "preview": "assets/dentalspa/research/previews/source-000.jpg"
+  },
+  {
+    "id": 1,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/01/cropped-Capture-de%CC%81cran-2021-01-09-a%CC%80-17.33.57.png",
+    "pages": [
+      "https://spadentaire.ma/",
+      "https://spadentaire.ma/a-propos/",
+      "https://spadentaire.ma/technologie/",
+      "https://spadentaire.ma/galerie-des-sourires/",
+      "https://spadentaire.ma/tourisme-dentaire/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/01/cropped-Capture-de%CC%81cran-2021-01-09-a%CC%80-17.33.57.png",
+    "width": 606,
+    "height": 166,
+    "format": "png",
+    "bytes": 8848,
+    "preview": "assets/dentalspa/research/previews/source-001.jpg"
+  },
+  {
+    "id": 2,
+    "url": "https://spadentaire.ma/wp-content/uploads/2020/12/d978a21d-2a95-452b-a28c-4d004735541b.jpeg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2020/12/d978a21d-2a95-452b-a28c-4d004735541b.jpeg",
+    "width": 1280,
+    "height": 854,
+    "format": "jpeg",
+    "bytes": 165325,
+    "preview": "assets/dentalspa/research/previews/source-002.jpg"
+  },
+  {
+    "id": 3,
+    "url": "https://spadentaire.ma/wp-content/uploads/2020/12/7c73a05a-601f-4a91-b002-f02762921cb6.jpeg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2020/12/7c73a05a-601f-4a91-b002-f02762921cb6.jpeg",
+    "width": 1280,
+    "height": 854,
+    "format": "jpeg",
+    "bytes": 140784,
+    "preview": "assets/dentalspa/research/previews/source-003.jpg"
+  },
+  {
+    "id": 4,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/3.jpg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/3.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 174960,
+    "preview": "assets/dentalspa/research/previews/source-004.jpg"
+  },
+  {
+    "id": 5,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/5.jpg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/5.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 284921,
+    "preview": "assets/dentalspa/research/previews/source-005.jpg"
+  },
+  {
+    "id": 6,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/36.jpg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/36.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 210941,
+    "preview": "assets/dentalspa/research/previews/source-006.jpg"
+  },
+  {
+    "id": 7,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/37.jpg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/37.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 213007,
+    "preview": "assets/dentalspa/research/previews/source-007.jpg"
+  },
+  {
+    "id": 8,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/maya-face-apres.jpeg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/maya-face-apres.jpeg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1813904,
+    "preview": "assets/dentalspa/research/previews/source-008.jpg"
+  },
+  {
+    "id": 9,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/jalila-face-av.jpeg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/jalila-face-av.jpeg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 2193342,
+    "preview": "assets/dentalspa/research/previews/source-009.jpg"
+  },
+  {
+    "id": 10,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/jalila-face-ap.jpeg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/jalila-face-ap.jpeg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 2269383,
+    "preview": "assets/dentalspa/research/previews/source-010.jpg"
+  },
+  {
+    "id": 11,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/zack-av.jpeg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/zack-av.jpeg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 3251211,
+    "preview": "assets/dentalspa/research/previews/source-011.jpg"
+  },
+  {
+    "id": 12,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/zack-ap.jpeg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/zack-ap.jpeg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 2440160,
+    "preview": "assets/dentalspa/research/previews/source-012.jpg"
+  },
+  {
+    "id": 13,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/moujahid-av-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/",
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/moujahid-av-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1311929,
+    "preview": "assets/dentalspa/research/previews/source-013.jpg"
+  },
+  {
+    "id": 14,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/moujahid-ap-copie-1.jpg",
+    "pages": [
+      "https://spadentaire.ma/",
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/moujahid-ap-copie-1.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1200214,
+    "preview": "assets/dentalspa/research/previews/source-014.jpg"
+  },
+  {
+    "id": 15,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/15.jpg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/15.jpg",
+    "width": 2400,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1055436,
+    "preview": "assets/dentalspa/research/previews/source-015.jpg"
+  },
+  {
+    "id": 16,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/18.jpg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/18.jpg",
+    "width": 2400,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1058079,
+    "preview": "assets/dentalspa/research/previews/source-016.jpg"
+  },
+  {
+    "id": 17,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/22.jpg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/22.jpg",
+    "width": 2400,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 558935,
+    "preview": "assets/dentalspa/research/previews/source-017.jpg"
+  },
+  {
+    "id": 18,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/23.jpg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/23.jpg",
+    "width": 2400,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1280058,
+    "preview": "assets/dentalspa/research/previews/source-018.jpg"
+  },
+  {
+    "id": 19,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/26.jpg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/26.jpg",
+    "width": 2400,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1146920,
+    "preview": "assets/dentalspa/research/previews/source-019.jpg"
+  },
+  {
+    "id": 20,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/30.jpg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/30.jpg",
+    "width": 2400,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1295939,
+    "preview": "assets/dentalspa/research/previews/source-020.jpg"
+  },
+  {
+    "id": 21,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/esthetique-1.jpeg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/esthetique-1.jpeg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 910187,
+    "preview": "assets/dentalspa/research/previews/source-021.jpg"
+  },
+  {
+    "id": 22,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/Gouttier-3.jpeg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/Gouttier-3.jpeg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 920648,
+    "preview": "assets/dentalspa/research/previews/source-022.jpg"
+  },
+  {
+    "id": 23,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/Lingual-Systems-4.jpeg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/Lingual-Systems-4.jpeg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1840467,
+    "preview": "assets/dentalspa/research/previews/source-023.jpg"
+  },
+  {
+    "id": 24,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/amina15.jpeg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/amina15.jpeg",
+    "width": 1024,
+    "height": 773,
+    "format": "jpeg",
+    "bytes": 17749,
+    "preview": "assets/dentalspa/research/previews/source-024.jpg"
+  },
+  {
+    "id": 25,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/amina10.jpg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/amina10.jpg",
+    "width": 1153,
+    "height": 865,
+    "format": "jpeg",
+    "bytes": 75533,
+    "preview": "assets/dentalspa/research/previews/source-025.jpg"
+  },
+  {
+    "id": 26,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/477-implant2-3.jpg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/477-implant2-3.jpg",
+    "width": 1101,
+    "height": 413,
+    "format": "jpeg",
+    "bytes": 20109,
+    "preview": "assets/dentalspa/research/previews/source-026.jpg"
+  },
+  {
+    "id": 27,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/ilham-01-ap.jpeg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/ilham-01-ap.jpeg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1442904,
+    "preview": "assets/dentalspa/research/previews/source-027.jpg"
+  },
+  {
+    "id": 28,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/soumia-ap-2.jpeg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/soumia-ap-2.jpeg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1490041,
+    "preview": "assets/dentalspa/research/previews/source-028.jpg"
+  },
+  {
+    "id": 29,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/estetica.jpeg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/estetica.jpeg",
+    "width": 2272,
+    "height": 1515,
+    "format": "jpeg",
+    "bytes": 324046,
+    "preview": "assets/dentalspa/research/previews/source-029.jpg"
+  },
+  {
+    "id": 30,
+    "url": "https://spadentaire.ma/wp-content/uploads/2020/12/smile-dsign-copie-1.jpg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2020/12/smile-dsign-copie-1.jpg",
+    "width": 1572,
+    "height": 846,
+    "format": "jpeg",
+    "bytes": 560287,
+    "preview": "assets/dentalspa/research/previews/source-030.jpg"
+  },
+  {
+    "id": 31,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/Capture-de%CC%81cran-2021-03-20-a%CC%80-15.33.12.png",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/Capture-de%CC%81cran-2021-03-20-a%CC%80-15.33.12.png",
+    "width": 1254,
+    "height": 748,
+    "format": "png",
+    "bytes": 158874,
+    "preview": "assets/dentalspa/research/previews/source-031.jpg"
+  },
+  {
+    "id": 32,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/Capture-de%CC%81cran-2021-03-20-a%CC%80-15.35.18.png",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/Capture-de%CC%81cran-2021-03-20-a%CC%80-15.35.18.png",
+    "width": 816,
+    "height": 576,
+    "format": "png",
+    "bytes": 99284,
+    "preview": "assets/dentalspa/research/previews/source-032.jpg"
+  },
+  {
+    "id": 33,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/Capture-de%CC%81cran-2021-03-20-a%CC%80-15.35.32.png",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/Capture-de%CC%81cran-2021-03-20-a%CC%80-15.35.32.png",
+    "width": 802,
+    "height": 564,
+    "format": "png",
+    "bytes": 92401,
+    "preview": "assets/dentalspa/research/previews/source-033.jpg"
+  },
+  {
+    "id": 34,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/Capture-de%CC%81cran-2021-03-20-a%CC%80-15.33.45.png",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/Capture-de%CC%81cran-2021-03-20-a%CC%80-15.33.45.png",
+    "width": 1282,
+    "height": 688,
+    "format": "png",
+    "bytes": 185181,
+    "preview": "assets/dentalspa/research/previews/source-034.jpg"
+  },
+  {
+    "id": 35,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/logoamina.jpeg",
+    "pages": [
+      "https://spadentaire.ma/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/logoamina.jpeg",
+    "width": 606,
+    "height": 166,
+    "format": "jpeg",
+    "bytes": 8757,
+    "preview": "assets/dentalspa/research/previews/source-035.jpg"
+  },
+  {
+    "id": 36,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/01/Capture-de%CC%81cran-2021-01-09-a%CC%80-17.33.57.png",
+    "pages": [
+      "https://spadentaire.ma/",
+      "https://spadentaire.ma/a-propos/",
+      "https://spadentaire.ma/technologie/",
+      "https://spadentaire.ma/galerie-des-sourires/",
+      "https://spadentaire.ma/tourisme-dentaire/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/01/Capture-de%CC%81cran-2021-01-09-a%CC%80-17.33.57.png",
+    "width": 606,
+    "height": 346,
+    "format": "png",
+    "bytes": 11782,
+    "preview": "assets/dentalspa/research/previews/source-036.jpg"
+  },
+  {
+    "id": 37,
+    "url": "https://spadentaire.ma/wp-content/uploads/elementor/thumbs/Capture-de%CC%81cran-2022-01-12-a%CC%80-00.42.38-piwlczx2h5cvjd9zk02h8piqfgxz27ccnh5wordpio.png",
+    "pages": [
+      "https://spadentaire.ma/a-propos/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/elementor/thumbs/Capture-de%CC%81cran-2022-01-12-a%CC%80-00.42.38-piwlczx2h5cvjd9zk02h8piqfgxz27ccnh5wordpio.png",
+    "width": 600,
+    "height": 600,
+    "format": "png",
+    "bytes": 414581,
+    "preview": "assets/dentalspa/research/previews/source-037.jpg"
+  },
+  {
+    "id": 38,
+    "url": "https://spadentaire.ma/wp-content/uploads/2020/12/8A3349-copie-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/a-propos/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2020/12/8A3349-copie-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 242411,
+    "preview": "assets/dentalspa/research/previews/source-038.jpg"
+  },
+  {
+    "id": 39,
+    "url": "https://spadentaire.ma/wp-content/uploads/2022/01/5-scaled.jpg",
+    "pages": [
+      "https://spadentaire.ma/a-propos/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2022/01/5-scaled.jpg",
+    "width": 2560,
+    "height": 1440,
+    "format": "jpeg",
+    "bytes": 284874,
+    "preview": "assets/dentalspa/research/previews/source-039.jpg"
+  },
+  {
+    "id": 40,
+    "url": "https://spadentaire.ma/wp-content/uploads/2022/01/39-scaled.jpg",
+    "pages": [
+      "https://spadentaire.ma/a-propos/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2022/01/39-scaled.jpg",
+    "width": 2560,
+    "height": 1440,
+    "format": "jpeg",
+    "bytes": 160998,
+    "preview": "assets/dentalspa/research/previews/source-040.jpg"
+  },
+  {
+    "id": 41,
+    "url": "https://spadentaire.ma/wp-content/uploads/2022/01/Capture-de%CC%81cran-2022-01-12-a%CC%80-00.42.38.png",
+    "pages": [
+      "https://spadentaire.ma/a-propos/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2022/01/Capture-de%CC%81cran-2022-01-12-a%CC%80-00.42.38.png",
+    "width": 1708,
+    "height": 1466,
+    "format": "png",
+    "bytes": 3103704,
+    "preview": "assets/dentalspa/research/previews/source-041.jpg"
+  },
+  {
+    "id": 42,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/01/12.png",
+    "pages": [
+      "https://spadentaire.ma/a-propos/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/01/12.png",
+    "width": 1024,
+    "height": 857,
+    "format": "png",
+    "bytes": 260858,
+    "preview": "assets/dentalspa/research/previews/source-042.jpg"
+  },
+  {
+    "id": 43,
+    "url": "https://spadentaire.ma/wp-content/uploads/2022/01/cerec.png",
+    "pages": [
+      "https://spadentaire.ma/technologie/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2022/01/cerec.png",
+    "width": 2088,
+    "height": 1304,
+    "format": "png",
+    "bytes": 396679,
+    "preview": "assets/dentalspa/research/previews/source-043.jpg"
+  },
+  {
+    "id": 44,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/01/1.jpg",
+    "pages": [
+      "https://spadentaire.ma/technologie/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/01/1.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 54402,
+    "preview": "assets/dentalspa/research/previews/source-044.jpg"
+  },
+  {
+    "id": 45,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/01/2-1.png",
+    "pages": [
+      "https://spadentaire.ma/technologie/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/01/2-1.png",
+    "width": 2499,
+    "height": 1500,
+    "format": "png",
+    "bytes": 554433,
+    "preview": "assets/dentalspa/research/previews/source-045.jpg"
+  },
+  {
+    "id": 46,
+    "url": "https://spadentaire.ma/wp-content/uploads/2020/12/cerec.png",
+    "pages": [
+      "https://spadentaire.ma/technologie/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2020/12/cerec.png",
+    "width": 943,
+    "height": 629,
+    "format": "png",
+    "bytes": 244956,
+    "preview": "assets/dentalspa/research/previews/source-046.jpg"
+  },
+  {
+    "id": 47,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/06/radio-3d.jpeg",
+    "pages": [
+      "https://spadentaire.ma/technologie/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/06/radio-3d.jpeg",
+    "width": 2500,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 932637,
+    "preview": "assets/dentalspa/research/previews/source-047.jpg"
+  },
+  {
+    "id": 48,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/maya1.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/maya1.jpg",
+    "width": 2048,
+    "height": 1367,
+    "format": "jpeg",
+    "bytes": 1939766,
+    "preview": "assets/dentalspa/research/previews/source-048.jpg"
+  },
+  {
+    "id": 49,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/maya2.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/maya2.jpg",
+    "width": 2048,
+    "height": 1367,
+    "format": "jpeg",
+    "bytes": 2036137,
+    "preview": "assets/dentalspa/research/previews/source-049.jpg"
+  },
+  {
+    "id": 50,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/moujahid2.jpeg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/moujahid2.jpeg",
+    "width": 1280,
+    "height": 829,
+    "format": "jpeg",
+    "bytes": 134127,
+    "preview": "assets/dentalspa/research/previews/source-050.jpg"
+  },
+  {
+    "id": 51,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/moujahid1.jpeg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/moujahid1.jpeg",
+    "width": 1280,
+    "height": 829,
+    "format": "jpeg",
+    "bytes": 203413,
+    "preview": "assets/dentalspa/research/previews/source-051.jpg"
+  },
+  {
+    "id": 52,
+    "url": "https://spadentaire.ma/wp-content/uploads/2020/12/rgb-1.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2020/12/rgb-1.jpg",
+    "width": 853,
+    "height": 1280,
+    "format": "jpeg",
+    "bytes": 221507,
+    "preview": "assets/dentalspa/research/previews/source-052.jpg"
+  },
+  {
+    "id": 53,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/nabil-ap-copie-1.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/nabil-ap-copie-1.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1892959,
+    "preview": "assets/dentalspa/research/previews/source-053.jpg"
+  },
+  {
+    "id": 54,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/zack-av-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/zack-av-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 3251211,
+    "preview": "assets/dentalspa/research/previews/source-054.jpg"
+  },
+  {
+    "id": 55,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/zack-ap-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/zack-ap-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 2440160,
+    "preview": "assets/dentalspa/research/previews/source-055.jpg"
+  },
+  {
+    "id": 56,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/souad-face-av.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/souad-face-av.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 54916,
+    "preview": "assets/dentalspa/research/previews/source-056.jpg"
+  },
+  {
+    "id": 57,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/souad-face-ap.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/souad-face-ap.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 39095,
+    "preview": "assets/dentalspa/research/previews/source-057.jpg"
+  },
+  {
+    "id": 58,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/soumia-av-2-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/soumia-av-2-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 58684,
+    "preview": "assets/dentalspa/research/previews/source-058.jpg"
+  },
+  {
+    "id": 59,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/soumia-ap-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/soumia-ap-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 69929,
+    "preview": "assets/dentalspa/research/previews/source-059.jpg"
+  },
+  {
+    "id": 60,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/nabil-av-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/nabil-av-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1293530,
+    "preview": "assets/dentalspa/research/previews/source-060.jpg"
+  },
+  {
+    "id": 61,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/nabil-ap-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/nabil-ap-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1892959,
+    "preview": "assets/dentalspa/research/previews/source-061.jpg"
+  },
+  {
+    "id": 62,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/sara-av-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/sara-av-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 804024,
+    "preview": "assets/dentalspa/research/previews/source-062.jpg"
+  },
+  {
+    "id": 63,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/sara-ap-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/sara-ap-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 816859,
+    "preview": "assets/dentalspa/research/previews/source-063.jpg"
+  },
+  {
+    "id": 64,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/hafida-av.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/hafida-av.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 816635,
+    "preview": "assets/dentalspa/research/previews/source-064.jpg"
+  },
+  {
+    "id": 65,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/hafida-ap.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/hafida-ap.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 919500,
+    "preview": "assets/dentalspa/research/previews/source-065.jpg"
+  },
+  {
+    "id": 66,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/chakir-av-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/chakir-av-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1781336,
+    "preview": "assets/dentalspa/research/previews/source-066.jpg"
+  },
+  {
+    "id": 67,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/chakir-ap-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/chakir-ap-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1864140,
+    "preview": "assets/dentalspa/research/previews/source-067.jpg"
+  },
+  {
+    "id": 68,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/belhmar-av-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/belhmar-av-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1889865,
+    "preview": "assets/dentalspa/research/previews/source-068.jpg"
+  },
+  {
+    "id": 69,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/belhmar-ap-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/belhmar-ap-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1327061,
+    "preview": "assets/dentalspa/research/previews/source-069.jpg"
+  },
+  {
+    "id": 70,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/meryam-av-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/meryam-av-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 906657,
+    "preview": "assets/dentalspa/research/previews/source-070.jpg"
+  },
+  {
+    "id": 71,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/meryam-ap-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/meryam-ap-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 869422,
+    "preview": "assets/dentalspa/research/previews/source-071.jpg"
+  },
+  {
+    "id": 72,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/said-av-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/said-av-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 2591594,
+    "preview": "assets/dentalspa/research/previews/source-072.jpg"
+  },
+  {
+    "id": 73,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/said-ap-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/said-ap-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 2809723,
+    "preview": "assets/dentalspa/research/previews/source-073.jpg"
+  },
+  {
+    "id": 74,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/khadija-av-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/khadija-av-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 969410,
+    "preview": "assets/dentalspa/research/previews/source-074.jpg"
+  },
+  {
+    "id": 75,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/khadiha-ap-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/khadiha-ap-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1187639,
+    "preview": "assets/dentalspa/research/previews/source-075.jpg"
+  },
+  {
+    "id": 76,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/mouline-av-02-.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/mouline-av-02-.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1569949,
+    "preview": "assets/dentalspa/research/previews/source-076.jpg"
+  },
+  {
+    "id": 77,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/mouline-ap-02.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/mouline-ap-02.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1489709,
+    "preview": "assets/dentalspa/research/previews/source-077.jpg"
+  },
+  {
+    "id": 78,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/reda-av-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/reda-av-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1679859,
+    "preview": "assets/dentalspa/research/previews/source-078.jpg"
+  },
+  {
+    "id": 79,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/reda-ap-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/reda-ap-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1893862,
+    "preview": "assets/dentalspa/research/previews/source-079.jpg"
+  },
+  {
+    "id": 80,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/bahiya-av-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/bahiya-av-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 61727,
+    "preview": "assets/dentalspa/research/previews/source-080.jpg"
+  },
+  {
+    "id": 81,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/bahya-ap-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/bahya-ap-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 50521,
+    "preview": "assets/dentalspa/research/previews/source-081.jpg"
+  },
+  {
+    "id": 82,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/yassmine-face-av.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/yassmine-face-av.jpg",
+    "width": 2450,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 44603,
+    "preview": "assets/dentalspa/research/previews/source-082.jpg"
+  },
+  {
+    "id": 83,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/yassmine-face-ap.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/yassmine-face-ap.jpg",
+    "width": 2450,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 35028,
+    "preview": "assets/dentalspa/research/previews/source-083.jpg"
+  },
+  {
+    "id": 84,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/sourire-face-av.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/sourire-face-av.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1696888,
+    "preview": "assets/dentalspa/research/previews/source-084.jpg"
+  },
+  {
+    "id": 85,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/sourire-face-ap.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/sourire-face-ap.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1653656,
+    "preview": "assets/dentalspa/research/previews/source-085.jpg"
+  },
+  {
+    "id": 86,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/ilham-01-av.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/ilham-01-av.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1750015,
+    "preview": "assets/dentalspa/research/previews/source-086.jpg"
+  },
+  {
+    "id": 87,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/ilham-01-ap.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/ilham-01-ap.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1442904,
+    "preview": "assets/dentalspa/research/previews/source-087.jpg"
+  },
+  {
+    "id": 88,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/maria-zaydan-face-av.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/maria-zaydan-face-av.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1060466,
+    "preview": "assets/dentalspa/research/previews/source-088.jpg"
+  },
+  {
+    "id": 89,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/maria-zaydan-face-ap-.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/maria-zaydan-face-ap-.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1075927,
+    "preview": "assets/dentalspa/research/previews/source-089.jpg"
+  },
+  {
+    "id": 90,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/face1.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/face1.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1513876,
+    "preview": "assets/dentalspa/research/previews/source-090.jpg"
+  },
+  {
+    "id": 91,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/face2.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/face2.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 2267841,
+    "preview": "assets/dentalspa/research/previews/source-091.jpg"
+  },
+  {
+    "id": 92,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/av.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/av.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 2373984,
+    "preview": "assets/dentalspa/research/previews/source-092.jpg"
+  },
+  {
+    "id": 93,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/1.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/1.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 2213062,
+    "preview": "assets/dentalspa/research/previews/source-093.jpg"
+  },
+  {
+    "id": 94,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/ikram-av-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/ikram-av-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1028053,
+    "preview": "assets/dentalspa/research/previews/source-094.jpg"
+  },
+  {
+    "id": 95,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/ikram-ap-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/ikram-ap-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1253454,
+    "preview": "assets/dentalspa/research/previews/source-095.jpg"
+  },
+  {
+    "id": 96,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/hajar-av-copie-1.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/hajar-av-copie-1.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1076448,
+    "preview": "assets/dentalspa/research/previews/source-096.jpg"
+  },
+  {
+    "id": 97,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/hajar-ap-copie-1.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/hajar-ap-copie-1.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1035554,
+    "preview": "assets/dentalspa/research/previews/source-097.jpg"
+  },
+  {
+    "id": 98,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/malika-avant-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/malika-avant-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1097400,
+    "preview": "assets/dentalspa/research/previews/source-098.jpg"
+  },
+  {
+    "id": 99,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/malika-face-ap-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/malika-face-ap-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1140337,
+    "preview": "assets/dentalspa/research/previews/source-099.jpg"
+  },
+  {
+    "id": 100,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/naima-av-02.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/naima-av-02.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1081060,
+    "preview": "assets/dentalspa/research/previews/source-100.jpg"
+  },
+  {
+    "id": 101,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/naima-ap-02.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/naima-ap-02.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1295141,
+    "preview": "assets/dentalspa/research/previews/source-101.jpg"
+  },
+  {
+    "id": 102,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/soumia-av-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/soumia-av-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1306842,
+    "preview": "assets/dentalspa/research/previews/source-102.jpg"
+  },
+  {
+    "id": 103,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/soumia-ap-2-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/soumia-ap-2-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1490041,
+    "preview": "assets/dentalspa/research/previews/source-103.jpg"
+  },
+  {
+    "id": 104,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/hanin-av-001.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/hanin-av-001.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 986397,
+    "preview": "assets/dentalspa/research/previews/source-104.jpg"
+  },
+  {
+    "id": 105,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/hanin-ap-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/hanin-ap-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 49949,
+    "preview": "assets/dentalspa/research/previews/source-105.jpg"
+  },
+  {
+    "id": 106,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/boukyouti-av-face-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/boukyouti-av-face-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1143318,
+    "preview": "assets/dentalspa/research/previews/source-106.jpg"
+  },
+  {
+    "id": 107,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/boukyouti-ap-face-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "error": "fetch failed"
+  },
+  {
+    "id": 108,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/haja-av-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/haja-av-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 880838,
+    "preview": "assets/dentalspa/research/previews/source-108.jpg"
+  },
+  {
+    "id": 109,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/haja-face-ap-copie.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/haja-face-ap-copie.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1145241,
+    "preview": "assets/dentalspa/research/previews/source-109.jpg"
+  },
+  {
+    "id": 110,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/faiza-av-1.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/faiza-av-1.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1307755,
+    "preview": "assets/dentalspa/research/previews/source-110.jpg"
+  },
+  {
+    "id": 111,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/faiza-ap-1.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/faiza-ap-1.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1299562,
+    "preview": "assets/dentalspa/research/previews/source-111.jpg"
+  },
+  {
+    "id": 112,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/sofia-av-copie-1.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "error": "fetch failed"
+  },
+  {
+    "id": 113,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/02/sofia-ap-copie-1.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/02/sofia-ap-copie-1.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 777052,
+    "preview": "assets/dentalspa/research/previews/source-113.jpg"
+  },
+  {
+    "id": 114,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/nadia-av.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/nadia-av.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1092294,
+    "preview": "assets/dentalspa/research/previews/source-114.jpg"
+  },
+  {
+    "id": 115,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/03/nadia-ap.jpg",
+    "pages": [
+      "https://spadentaire.ma/galerie-des-sourires/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/03/nadia-ap.jpg",
+    "width": 2499,
+    "height": 1500,
+    "format": "jpeg",
+    "bytes": 1896127,
+    "preview": "assets/dentalspa/research/previews/source-115.jpg"
+  },
+  {
+    "id": 116,
+    "url": "https://spadentaire.ma/wp-content/uploads/elementor/thumbs/4-ozbp6hisp5dco63vj2noi5vx6kuokr1hoomi061ya8.png",
+    "pages": [
+      "https://spadentaire.ma/tourisme-dentaire/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/elementor/thumbs/4-ozbp6hisp5dco63vj2noi5vx6kuokr1hoomi061ya8.png",
+    "width": 200,
+    "height": 200,
+    "format": "png",
+    "bytes": 17164,
+    "preview": "assets/dentalspa/research/previews/source-116.jpg"
+  },
+  {
+    "id": 117,
+    "url": "https://spadentaire.ma/wp-content/uploads/2021/01/casablanca.jpg",
+    "pages": [
+      "https://spadentaire.ma/tourisme-dentaire/"
+    ],
+    "fetchedUrl": "https://spadentaire.ma/wp-content/uploads/2021/01/casablanca.jpg",
+    "width": 1920,
+    "height": 1080,
+    "format": "jpeg",
+    "bytes": 318350,
+    "preview": "assets/dentalspa/research/previews/source-117.jpg"
+  },
+  {
+    "id": 118,
+    "url": "https://spadentaire.ma/wp-content/uploads/2020/12/4.png",
+    "pages": [
+      "https://spadentaire.ma/tourisme-dentaire/"
+    ],
+    "error": "fetch failed"
+  }
+]

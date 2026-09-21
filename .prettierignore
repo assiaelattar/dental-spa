@@ -1,0 +1,9 @@
+.next
+node_modules
+qa
+package-lock.json
+next-env.d.ts
+*.tsbuildinfo
+assets/dentalspa/research
+assets/dentalspa/originals
+public/images
