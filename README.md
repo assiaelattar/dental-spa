@@ -1,45 +1,41 @@
-# Dental Spa — Website V3
+# Dental Spa V3 — Next.js / Vercel-compatible deployment
 
-**Selected identity:** Concept B · Sculpted Enamel  
-**Design direction:** Clinical Precision × Spa-Level Comfort  
-**Practice:** Dental Spa by Dr Amina El Omrani, Casablanca
+This repository serves the approved **Dental Spa V3** experience (**Clinical Precision × Spa Comfort**, Sculpted Enamel identity) through a minimal Next.js App Router shell, compatible with the existing Vercel **Next.js** project settings.
 
-This repository's `master` branch contains the **standalone V3 website prototype**, replacing the earlier Next.js implementation. It uses plain HTML, CSS, and JavaScript with local images and SVG illustrations.
+## Why the compatibility shell exists
+
+The V3 site was designed as a standalone HTML/CSS/JavaScript experience. The original replacement removed the Next.js `app` directory, causing Vercel's Next.js build to fail with `Couldn't find any pages or app directory`.
+
+- `src/app/layout.tsx` and `src/app/page.tsx` restore a valid Next.js application.
+- `next.config.ts` rewrites **`/` to `/index.html`**. The actual website is served as static content from `public/`, with its existing markup, styling, images, animations, navigation and booking demo intact.
+- `npm run vercel-build` runs `next build`, matching the Vercel project build command.
 
 ## Run locally
 
-Open `index.html` directly in Chrome, Firefox, or Safari, or serve it using a static server:
-
 ```sh
-python3 -m http.server 8000
+npm ci
+npm run dev
 ```
 
-Visit http://localhost:8000/.
+Visit http://localhost:3000/ for the V3 website. Direct static preview: http://localhost:3000/index.html.
 
-## Pages and behavior
+For Vercel, keep the framework preset **Next.js**, root directory `./`, and build command `npm run vercel-build` (or use the default `next build`). The Node.js version must support the Next.js version in `package.json`.
 
-Page navigation is client-side, using hash routes: `#accueil`, `#expertises`, `#technologies`, `#docteur`, and `#reservation`.
+## V3 contents
 
-- Mobile-first responsive menu and page layouts
-- Scroll-based motion and reduced-motion support
-- Interactive dental planning visualization (illustrative, not a clinical scan)
-- Expertise cards, practitioner profile, and patient journey
-- Multi-step appointment **demonstration** with illustrative date/time choices and local validation
+- `public/index.html`: website shell and all five page views
+- `public/styles.css`: brand and responsive styles, animations, transitions
+- `public/app.js`: navigation, interactive treatment workflow and demo appointment steps
+- `public/assets/`: Dr Amina photography and dental illustrations
+- `DESIGN_SYSTEM.md`: brand and design-system documentation
 
-## Important: demonstration, not a live clinical service
+## Important boundaries before launch
 
-- No backend, live booking availability, CRM connection, or patient-data submission is implemented.
-- The visible appointment confirmation is a **UI preview**, not an actual scheduled consultation.
-- Images of clinical technology and dental diagrams are illustrative; installed equipment and clinical details must be verified by the practice.
-- Contact information, professional credentials, medical content, photo permissions, privacy/cookie policies, and medical advertising compliance require review before going live.
-- The site includes `<meta name="robots" content="noindex,nofollow,noarchive">` and `robots.txt` set to disallow crawling while it is a design preview. Remove these only after approval and production validation.
+**This is still a design prototype**, not a connected clinical booking system. Dates and time slots are illustrative; no form submits patient information or confirms a real appointment. The site contains noindex directives and a restrictive `robots.txt` to prevent indexing while the medical copy, personal details, privacy requirements and booking integrations remain under review.
 
-## Deployment
+Production launch requires verifying medical credentials, clinic contact details, photo usage rights, actual clinical services, and connecting appointments to Dental OS. No live website publication is implied by the GitHub push.
 
-Use **static hosting** with `index.html` as the entrypoint and the `assets/` directory served unchanged. A deployment previously configured for **Next.js** must be reconfigured as a static project. Pushing this repository alone does not publish a live website.
+## Backups
 
-## Documentation and history
-
-See [DESIGN_SYSTEM.md](DESIGN_SYSTEM.md) for visual design tokens and component rules.
-
-The earlier Next.js implementation was backed up in branch `backup/pre-v3-nextjs-2026-10-11` before replacing the repository root. The earlier V3 design-review branch remains available as `design/website-v3-clinical-spa`.
+- Original Next.js site: `backup/pre-v3-nextjs-2026-10-11`
+- Standalone V3 root before compatibility fix: `backup/pre-vercel-fix-v3-2026-10-11`
