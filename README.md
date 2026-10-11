@@ -39,3 +39,9 @@ Production launch requires verifying medical credentials, clinic contact details
 
 - Original Next.js site: `backup/pre-v3-nextjs-2026-10-11`
 - Standalone V3 root before compatibility fix: `backup/pre-vercel-fix-v3-2026-10-11`
+
+## Mobile V4 UX enhancements
+
+The mobile-only `public/mobile-v4.css` and `public/mobile-v4.js` improve the phone/tablet experience without replacing desktop styles or the existing booking logic: compact hero with Dr Amina and dental visualization, full-screen accessible menu, persistent booking/call action, touch-friendly swipeable clinical cards, horizontally selectable digital workflow stages, and a streamlined one-column appointment demo. Reduced-motion and safe-area support are included.
+
+Visual/interaction checks passed at 320, 390, 430, 768 and 1440 px, including zero document-level horizontal overflow and the no-submission demo booking flow. Live Vercel build/deployment still needs verification.
